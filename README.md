@@ -1,7 +1,5 @@
 # Rudy Cazabon
 
-Vancouver, Canada • (604) 250-1231 • rudycazabon@outlook.com
-
 Results-driven professional with expertise in 3D graphics, digital twins/simulation, and AI, excelling in innovation, strategic planning, and product development. Proven track record of delivering projects on time and budget while fostering global collaboration and shaping company culture with an agile “0-1” mindset.
 
 ## Technical Product Manager | Solutions Architect | Technical Evangelist | AI Frameworks | Graphics Research
