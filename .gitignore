@@ -1,0 +1,15 @@
+# Individual files
+CLAUDE.md
+.env
+
+# Directories
+node_modules/
+dist/
+logs/
+temp/
+.cache/
+.vscode/
+.venv/
+build/
+
+
